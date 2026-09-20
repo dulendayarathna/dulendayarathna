@@ -8,7 +8,6 @@
 - 🎓 **Computer Science Undergraduate** passionate about building modern web applications and AI-integrated software.
 - 💡 Exploring **Data Structures & Algorithms**, **Full-Stack Web Development**, and **LLM Integrations**.
 - 🛠️ Currently building **[MindPulse](https://github.com/dulendayarathna/Mind-pulse)** — an AI study assistant for university students.
-- 💬 Ask me about **JavaScript, Frontend UI/UX, and Web Audio APIs**.
 
 ---
 
