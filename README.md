@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,16,24&height=220&section=header&text=Dulen%20Dayarathna&fontSize=42&fontAlignY=38&subtext=Building%20ideas%20into%20impactful%20digital%20experiences%20🚀&subfontSize=18&subfontAlignY=62&fontColor=ffffff&subfontColor=94a3b8" alt="Header Banner" width="100%" />
+</p>
 # Hi there, I'm Dulen Dayarathna 👋
 
 <p align="left">
