@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,16,24&height=220&section=header&text=Dulen%20Dayarathna&fontSize=42&fontAlignY=38&subtext=Building%20ideas%20into%20impactful%20digital%20experiences%20🚀&subfontSize=18&subfontAlignY=62&fontColor=ffffff&subfontColor=94a3b8" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Dulen%20Dayarathna&fontSize=42&fontAlignY=45&fontColor=ffffff" alt="Header Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/dulendayarathna">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+ideas+into+digital+experiences+🚀;Computer+Science+Undergraduate+🎓;Exploring+Full-Stack+%26+AI+Integration+⚡" alt="Typing SVG" />
+  </a>
 </p>
 # Hi there, I'm Dulen Dayarathna 👋
 
