@@ -47,5 +47,5 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/dulendayarathna](https://linkedin.com) *(Add your real link)*
+- 💼 **LinkedIn:** [linkedin.com/in/dulendayarathna](https://linkedin.com) 
 - 📧 **Email:** `dulendayarathna06@gmail.com`
