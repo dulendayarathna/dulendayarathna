@@ -9,8 +9,7 @@
 ### 👨‍💻 About Me
 - 🎓 **Computer Science Undergraduate** passionate about crafting elegant software and AI-integrated web applications.
 - 💡 Focused on **Full-Stack Web Engineering**, **Data Structures & Algorithms**, and **Applied AI**.
-- 🛠️ Currently building **[MindPulse](https://github.com/dulendayarathna/Mind-pulse)** — an intelligent AI study suite with 3D flashcards and self-test arenas.
-- 💬 Ask me about **JavaScript, Frontend UI/UX, and Web Audio APIs**.
+- 🛠️ Currently building **[MindPulse](https://github.com/dulendayarathna/Mind-pulse)** — an intelligent AI study suite for students.
 
 ---
 
@@ -81,5 +80,5 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 **LinkedIn:** [Dulen Dayarathna](https://linkedin.com) *(Add your real LinkedIn profile link)*
+- 💼 **LinkedIn:** [Dulen Dayarathna](https://linkedin.com) 
 - 📧 **Email:** `dulendayarathna06@gmail.com`
