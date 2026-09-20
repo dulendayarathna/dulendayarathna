@@ -40,8 +40,10 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulendayarathna&show_icons=true&theme=tokyonight&hide_border=true&title_color=818cf8&icon_color=10b981" alt="Dulen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulendayarathna&layout=compact&theme=tokyonight&hide_border=true&title_color=818cf8" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=dulendayarathna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulendayarathna&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="95%" />
 </p>
 
 ---
